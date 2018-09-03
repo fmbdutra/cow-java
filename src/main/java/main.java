@@ -1,8 +1,15 @@
 /**
+ * Its a program to count cows weight
+ * and find out which cow is heavier
+ * and have less weight.
+ * <p>
+ * Used to implement new learn skill of Java.
+ * <p>
+ * vaca = cow in brazilian portuguese.
+ *
  * @author Fabiano Matheus Bittencourt Dutra
  * @version 1.0
- * @since 2018.09.03
- *
+ * @since 2018-09-03
  */
 
 
@@ -17,11 +24,13 @@ public class main {
         vaca[3] = 590.0;
         vaca[4] = 1050.0;
 
-        /*
-          Para entender: lista a quantidade de vacas e peso delas
-          System.out.println("Temos: "+vaca.length+" vacas");
-          for(int i=0;i<vaca.length;i++) {System.out.println("Vaca "+i+": "+vaca[i]);}
-        */
+
+//        Code to understand: list cows quantity and weight of them.
+//        Para entender: lista a quantidade de vacas e peso delas
+//
+//        System.out.println("Temos: "+vaca.length+" vacas");
+//        for(int i=0;i<vaca.length;i++) {System.out.println("Vaca "+i+": "+vaca[i]);}
+
 
         double maiorPeso = 0, menorPeso = 0; //Declara atributos de peso
 
