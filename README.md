@@ -1,4 +1,4 @@
-# Pesagem de Vacas / Cow Weighing
+# Pesagem de vacas / Cow weighing
 
 Contagem de peso de vacas. O intuíto é mostrar o animal de maior e menor peso.<br>
 Esse repositório é para praticar diferentes linguagens de programação.
