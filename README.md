@@ -1,7 +1,11 @@
 # cow-java
 
-Count program cows weight in Java.
+Contagem de peso de vacas. O intuíto é mostrar o animal de maior e menor peso.<br>
+Esse repositório é para praticar diferentes linguagens de programação.
 <br>
-This repository is to implements new learned skills about programaning languages.
+<br>
+Codes to count cows weight. It shows the lighter and  the heavier animal.<br>
+This repository is to practice new learned skills about programaning.
 <br /><br>
-Cachoeirinha/RS - Brazil, 2018 Setember
+Cachoeirinha/RS - Brazil<br>
+Set 2018
