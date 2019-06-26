@@ -5,7 +5,7 @@ Jun 2019
 Attributes
 ----------
     vacas : list 
-        Lista de pesos de vacas, o codigo dela e definido pelo indice.
+        Lista com código e pesos das vacas. O codigo delas sao definidos pelo indice da lista.
     maior_peso : float
         Seta o maior peso para esse atributo
     menor_peso : float  
