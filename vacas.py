@@ -42,5 +42,5 @@ for x in range(len(vacas)):
         menor_peso = vacas[x]
         id_vaca_leve = x+1             
         
-print("Maior Peso: ", maior_peso, " - Vaca ", id_vaca_pesada);
-print("Menor Peso: ", menor_peso, " - Vaca ", id_vaca_leve);
+print("Maior Peso: ", maior_peso, " - Vaca ", id_vaca_pesada)
+print("Menor Peso: ", menor_peso, " - Vaca ", id_vaca_leve)
